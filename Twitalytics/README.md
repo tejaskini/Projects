@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis on Python GUI :
+# Twitter Sentiment Analysis  :
 On this Repo created a Twitalytics (Twitter Sentiment Analysis)on python GUI (Tkinter) library.
 
 
